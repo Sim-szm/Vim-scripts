@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/etc/profile.d'
+let g:netrw_dirhist_2='/home/hurley/2013'
+let g:netrw_dirhist_3='/home/szm/java-data'
+let g:netrw_dirhist_4='/home/szm/download'
+let g:netrw_dirhist_5='/etc/apt/sources.list.d'
+let g:netrw_dirhist_6='/home/szm/pthread'
+let g:netrw_dirhist_7='/home/szm/oldfile/szm/szm数据结构/c++|c/suanfa/sort'
+let g:netrw_dirhist_8='/home/szm/some_code/summer_check'
+let g:netrw_dirhist_9='/usr/lib/python3.2/urllib'
